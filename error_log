@@ -1,0 +1,19 @@
+[05-Aug-2021 16:20:47 Asia/Kolkata] PHP Notice:  Undefined index: category_limit in /home4/zeroappz/public_html/clients/sylverrain/vcard/php/home.php on line 121
+[05-Aug-2021 16:20:47 Asia/Kolkata] PHP Notice:  Undefined index: category_limit in /home4/zeroappz/public_html/clients/sylverrain/vcard/php/home.php on line 121
+[05-Aug-2021 16:20:47 Asia/Kolkata] PHP Notice:  Undefined index: category_limit in /home4/zeroappz/public_html/clients/sylverrain/vcard/php/home.php on line 168
+[05-Aug-2021 16:20:47 Asia/Kolkata] PHP Notice:  Undefined index: category_limit in /home4/zeroappz/public_html/clients/sylverrain/vcard/php/home.php on line 168
+[05-Aug-2021 16:20:47 Asia/Kolkata] PHP Notice:  Undefined index: category_limit in /home4/zeroappz/public_html/clients/sylverrain/vcard/php/home.php on line 168
+[05-Aug-2021 16:20:47 Asia/Kolkata] PHP Notice:  Undefined index: category_limit in /home4/zeroappz/public_html/clients/sylverrain/vcard/php/home.php on line 168
+[05-Aug-2021 16:20:47 Asia/Kolkata] PHP Deprecated:  join(): Passing glue string after array is deprecated. Swap the parameters in /home4/zeroappz/public_html/clients/sylverrain/vcard/includes/sql_builder/idiorm.php on line 1358
+[23-Sep-2021 15:33:13 Asia/Kolkata] PHP Deprecated:  Required parameter $picname follows optional parameter $userData in /home4/zeroappz/public_html/clients/sylverrain/vcard/includes/functions/func.users.php on line 436
+[23-Sep-2021 15:33:13 Asia/Kolkata] PHP Deprecated:  Required parameter $access_token follows optional parameter $error_message in /home4/zeroappz/public_html/clients/sylverrain/vcard/includes/functions/func.sqlquery.php on line 1801
+[23-Sep-2021 15:33:13 Asia/Kolkata] PHP Warning:  Undefined array key "category_limit" in /home4/zeroappz/public_html/clients/sylverrain/vcard/php/home.php on line 121
+[23-Sep-2021 15:33:13 Asia/Kolkata] PHP Warning:  Undefined array key "category_limit" in /home4/zeroappz/public_html/clients/sylverrain/vcard/php/home.php on line 121
+[23-Sep-2021 15:33:13 Asia/Kolkata] PHP Warning:  Undefined array key "category_limit" in /home4/zeroappz/public_html/clients/sylverrain/vcard/php/home.php on line 168
+[23-Sep-2021 15:33:13 Asia/Kolkata] PHP Warning:  Undefined array key "category_limit" in /home4/zeroappz/public_html/clients/sylverrain/vcard/php/home.php on line 168
+[23-Sep-2021 15:33:13 Asia/Kolkata] PHP Warning:  Undefined array key "category_limit" in /home4/zeroappz/public_html/clients/sylverrain/vcard/php/home.php on line 168
+[23-Sep-2021 15:33:13 Asia/Kolkata] PHP Warning:  Undefined array key "category_limit" in /home4/zeroappz/public_html/clients/sylverrain/vcard/php/home.php on line 168
+[23-Sep-2021 15:35:17 Asia/Kolkata] PHP Deprecated:  Required parameter $picname follows optional parameter $userData in /home4/zeroappz/public_html/clients/sylverrain/vcard/includes/functions/func.users.php on line 436
+[23-Sep-2021 15:35:17 Asia/Kolkata] PHP Deprecated:  Required parameter $access_token follows optional parameter $error_message in /home4/zeroappz/public_html/clients/sylverrain/vcard/includes/functions/func.sqlquery.php on line 1801
+[23-Sep-2021 15:36:58 Asia/Kolkata] PHP Deprecated:  Required parameter $picname follows optional parameter $userData in /home4/zeroappz/public_html/clients/sylverrain/vcard/includes/functions/func.users.php on line 436
+[23-Sep-2021 15:36:58 Asia/Kolkata] PHP Deprecated:  Required parameter $access_token follows optional parameter $error_message in /home4/zeroappz/public_html/clients/sylverrain/vcard/includes/functions/func.sqlquery.php on line 1801
